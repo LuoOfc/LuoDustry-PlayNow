@@ -1,0 +1,42 @@
+{	
+	"name": "compressor",
+    "type": "GenericCrafter",
+    "description": "compresses copper",
+    "health": 100,
+	"size": 5,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 20,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+ "power": 30,
+		"items": {
+			"items": [
+                "copper/1",
+                "lead/1",
+                "metaglass/1",
+                "graphite/1",
+                "sand/1",
+                "coal/1",
+                "titanium/1",
+                "thorium/1",
+                "scrap/1",
+                "silicon/1",
+                "plastanium/1",
+                "surge-alloy/1",
+                "spore-pod/1",
+                 "pyratite/1"
+                 "blast-compound/1"
+			]
+		}
+	},
+	"requirements": [
+        "copper/50",
+        "lead/25",
+        "thorium/25"
+	],
+	"category": "crafting",
+	"research": "graphite-press",
+	"outputItem": "superitem/1"
+}

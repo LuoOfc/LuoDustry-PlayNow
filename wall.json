@@ -1,0 +1,13 @@
+{
+  "name": "Ono wall",
+  "description": "is a supreme wall with 34480 of health.",
+  "type": "Wall",
+  "size": 1,
+  "hasItems": true,
+  "health": 34480,
+  "category": "defense",
+  "research": "copper-wall",
+  "requirements": [
+    "superitem/5",
+  ]
+}

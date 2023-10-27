@@ -1,0 +1,33 @@
+{
+  "category": "turret",
+  "type": "ItemTurret",
+  "name": " Unit Breaker",
+  "description": " Mata As Unidades na hora (HitKill) custa ( Gratis ) gasta 2 torio de por 50 tiro.",
+  "targetAir": true,
+  "targetGround": true,
+  "health": 3600,
+  "size": 3,
+  "inaccuracy": 0,
+  "shootType": "flakScrap",
+  "reload": 1,
+  "shootCone": 40,
+  "rotateSpeed": 40,
+  "shoot": 50,
+  "range": 50,
+  "research": "hail",
+  "burstSpacing": 3,
+  "requirements": ["copper/1"],
+  "ammoTypes": {
+                     "copper": {
+                                  "type": " FlakBulletType",
+                                  "explodeRange": 21,
+                                  "speed": 12,
+                                  "damage": 999999999,
+                                  "bulletWidth": 25,
+                                  "bulletHeigth": 50,
+                                  "shootEffect": "shootSmall",
+                                  "smokeEffect": "shootSmallSmoke",
+                                  "ammoMultiplier": 15
+}
+}
+}

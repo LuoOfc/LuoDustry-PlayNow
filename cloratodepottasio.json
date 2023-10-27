@@ -1,0 +1,12 @@
+{
+    "name": "clorato de potássio",
+    "description": "algo explosivo em altas temperaturas ou sólidos",
+    "temperature": -50,
+    "flammability": 100,
+    "viscosity": 0.75,
+    "lightColor": "FF0F0F",
+    "heatCapacity": 0.03,
+    "explosiveness": 100
+    "color": "FF0F0F",
+    "research": "potássio"
+}

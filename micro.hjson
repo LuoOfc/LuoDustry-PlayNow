@@ -1,0 +1,13 @@
+type: LogicBlock
+health: 100000000
+name: arduino
+size: 1
+
+range: 800
+instructionsPerTick: 100000
+
+category: logic
+consumes: {power: 0.30}
+alwaysUnlocked: true
+buildVisibility: "shown"
+research: core-shard

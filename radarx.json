@@ -1,0 +1,10 @@
+{
+"name": "radar overpowered",
+"description": "is a radar with 250 of range or map of 125 of x-y.",
+"range": 250,
+"type":"ItemTurret",
+"category": "turret",
+"consumes": {
+    "power": 2
+  }
+}

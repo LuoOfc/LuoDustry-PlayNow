@@ -1,0 +1,11 @@
+{
+  "type": "Conveyor",
+  "name": "speed Today",
+  "speed": 10,
+  "size": 1,
+  "health": 3480,
+  "research": "router",
+  "itemCapacity": 30,
+  "requirements":[ "superitem/1"," potássio/1"]
+
+}

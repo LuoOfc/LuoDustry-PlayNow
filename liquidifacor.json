@@ -1,0 +1,28 @@
+{	
+	"name": "liquidificador de potássio",
+    "type": "GenericCrafter",
+    "description": "liquidifica o potássio",
+    "health": 100,
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 20,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+ "liquids": { "liquids": [ "water/2" ] },
+		"items": {
+			"items": [
+               "potássio/2",             
+			]
+		}
+	},
+	"requirements": [
+        "copper/50",
+        "lead/25",
+        "thorium/25"
+	],
+	"category": "crafting",
+	"research": "graphite-press",
+	"outputLiquid": "cloratodepottasio/4"
+}

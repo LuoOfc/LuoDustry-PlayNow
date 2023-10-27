@@ -1,0 +1,17 @@
+{
+  "name": "bank",
+  "description": "is a mini core shard without unit.",
+  "type": "StorageBlock",
+  "size": 4,
+  "hasItems": true,
+  "itemCapacity": 4000,
+  "health": 4000,
+  "coreMerge": true,
+  "category": "effect",
+  "research": "container",
+  "canOverdrive": false,
+  "requirements": [
+    "copper/1000",
+    "lead/800"
+  ]
+}

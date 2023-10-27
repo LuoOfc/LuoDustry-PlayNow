@@ -1,0 +1,9 @@
+{
+    "name": "potássio",
+    "color": "F31AFD",
+    "cost": 8.5,
+    "flammability": 100
+    "charge": 0,
+    "explosiveness": 100000,
+    "radioactivity": 10
+}
